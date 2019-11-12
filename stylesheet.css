@@ -1,0 +1,6 @@
+Body {background:darkgreen;color:gold;}
+h1 {color:orangered;}
+h2 {color:orange;}
+nav a {	display: inline-block;border: 2px solid navy;
+padding: 10px;margin: 5px;background: yellow;}
+a:hover{color:red}
